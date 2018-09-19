@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"name":"Quentin Gliech","email":"quentingliech@gmail.com"},"timestamp":1537379086,"title":"Quand on pull, il y a une ligne vide et des espaces en trop. C'est moche.","message":"```\n$ git bug pull\nFetching remote ...\n\nMerging data ...\n```\n\nEn mieux:\n\n```\n$ git bug pull\nFetching remote…\nMerging data…\n```","files":null}]}
+{"version":1,"ops":[{"type":3,"author":{"name":"Alexandre Franke","email":"alexandre.franke@gmail.com"},"timestamp":1537382240,"message":"👍","files":null}]}
