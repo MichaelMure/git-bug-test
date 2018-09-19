@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"name":"Alexandre Franke","email":"alexandre.franke@gmail.com"},"timestamp":1537379647,"title":"Quand l’utilisateur clone le mauvais dépôt, git bug ne lui dit pas.","message":"Ça devrait être automagique, parce que sinon je fais `git bug pull` et il ne se passe rien !","files":null}]}
