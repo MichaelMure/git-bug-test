@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"name":"François Ménabé","email":"francois.menabe@gmail.com"},"timestamp":1537380339,"title":"Test CLI -F -","message":"from standard input\n","files":null}]}
+{"version":1,"ops":[{"type":3,"author":{"name":"François Ménabé","email":"francois.menabe@gmail.com"},"timestamp":1537383156,"message":"new comment","files":null},{"type":2,"author":{"name":"François Ménabé","email":"francois.menabe@gmail.com"},"timestamp":1537383173,"title":"Test CLI -F from standard input","was":"Test CLI -F -"}]}
