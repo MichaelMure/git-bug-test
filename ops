@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"name":"Alexandre Franke","email":"alexandre.franke@gmail.com"},"timestamp":1537380449,"title":"Ajouter une commande pour lister les labels","message":"`git bug label` tout court pourrait le faire, sinon `git bug label ls`","files":null}]}
+{"version":1,"ops":[{"type":5,"author":{"name":"Alexandre Franke","email":"alexandre.franke@gmail.com"},"timestamp":1537380540,"added":["wishlist"],"removed":null}]}
